@@ -1,0 +1,18 @@
+Debugging
+
+#Tender love puts debugger
+
+#1 Steps you can follow
+Print/Puts
+Follow the flow
+Diagram Relationships
+Avoid Debuggers
+
+#2
+Find the line
+Find the element (is it a class, is it a method, is it a parameter etc.?)
+You also print to do this, decompose the line
+Which method is getting called, which object etc?
+Diagram relationships
+Tighten the loop
+Get visibility
